@@ -11,7 +11,7 @@
 
 <h2 align="center">Screen Main</h2>
 
-<p align="center"><img src="" /></p>
+<p align="center"><img src="" alt="Foto da tela principal" /></p>
 
 ### Instalation Frontend
 
